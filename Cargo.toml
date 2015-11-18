@@ -27,6 +27,7 @@ url = "0.2"
 [dependencies.cookie]
 version = "0.1"
 default-features = false
+git = "https://github.com/Geal/cookie-rs"
 
 [dependencies.openssl]
 version = "~0.7"
